@@ -3,7 +3,6 @@ const dotenv = require('dotenv');
 
 dotenv.config(); // Load environment variables
 
-
 const app = express();
 
 // Middleware to parse JSON data
