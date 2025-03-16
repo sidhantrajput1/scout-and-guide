@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    width: 40px;
+    height: 40px;
+}
+
+
+#intro{
+    height: 89vh;
+    background-image:url('../assets/intro1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100vw 89vh;
+    background-position: center;
+}
+
+.bebas-neue-regular{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
