@@ -1,7 +1,9 @@
+import Navbar from "./shared/navbar"
+
 function App() {
   return (
-    <div className="underline text-red font-bold">
-        <h3>Hello</h3>
+    <div className="">
+        <Navbar />
     </div>
   )
 }

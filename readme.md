@@ -9,8 +9,6 @@ scout-and-guide -> cd frontend -> npm run dev
 Key Backend Actions & Services
 User Authentication & Authorization
 
-
-
 Action: Handle user registration and login for schools, volunteers, donors, and admins.
 Functionality:
 
